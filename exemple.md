@@ -1,0 +1,1 @@
+Ceci est une phrase d'exemple dans un fichier d'exemple.
