@@ -5,8 +5,8 @@
 
 ### Versionner = Initialiser un fichier ou un dossier sous Git 
 
-Si on devait trouver une façon imagée de versionner un projet sous Git, on pourrait utiliser l'exemple des courses de Noël où on achète les cadeaux au magasin, puis on les fait emballer par une personne bénévole sur une table à papier cadeau, avant de les expédier.
-Voyons les différentes commandes et à quoi elles correspondent selon l'exemple que nous avons choisi. 
+_Si on devait trouver une façon imagée de versionner un projet sous Git, on pourrait utiliser l'exemple des courses de Noël où on achète les cadeaux au magasin, puis on les fait emballer par une personne bénévole sur une table à papier cadeau, avant de les expédier.
+Voyons les différentes commandes et à quoi elles correspondent selon l'exemple que nous avons choisi._ 
 
 `git init` : On rentre dans le magasin, puis on choisit les cadeaux qu'on souhaite mettre dans le caddie.
 // Grâce au Terminal, on navigue jusqu'au dossier de notre choix (le moment où on rentre dans le magasin) et on initialise Git dans ce dossier, pour indiquer à Git que c'est l'ensemble du dossier qu'il doit prendre en compte et créer une arborescence (c'est le moment où on met les cadeaux dans le caddie). Une fois Git initialisé, chaque modification des fichiers contenus dans le dossier sera prise en compte par Git. 
