@@ -30,6 +30,6 @@ Par exemple : Si j'ai modifié le titre principal d'un fichier en rouge, je cré
 //On envoie nos fichiers commités avec l'intitulé de leur(s) modification(s) sur GitHub ou GitLab, afin que d'autres personnes puissent voir le cheminement de notre code et comment on l'a fait évoluer, étape par étape. Si cette partie est facultative c'est uniquement parce qu'il n'est pas obligatoire de présenter son code à d'autres personnes, même si cela s'avérera évidemment essentiel lors du travail en entreprise.
 
 
-Objectif semaine prochaine :
+## Objectif semaine prochaine :
 - Mettre en forme la page d'accueil (manipuler HTML/CSS)
 - Créer un formulaire pour ajouter des films
